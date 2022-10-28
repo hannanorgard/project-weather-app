@@ -19,5 +19,4 @@ How to work with the `Date()` object in JavaScript
 If we had had more time, we would have implemented more CSS effects that would trigger depending on the weather of the selected city (snowflakes, rain, etc.)
 
 ## VIEW IT LIVE
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://hannajacobnick-weather-app.netlify.app/
